@@ -1,0 +1,2 @@
+# UploadFile_cilent_and_server
+Android客户端进行文件的上传和下载，代码包括Android客户端和tomcat服务器端
